@@ -136,6 +136,11 @@ button:hover {
   display: none;
 }
 
+.participants {
+  font-style: italic;
+  color: #0066cc;
+}
+
 footer {
   text-align: center;
   margin-top: 30px;
